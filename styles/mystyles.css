@@ -1,0 +1,21 @@
+/*this will be applied to the about and inddex pages */
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.headcenter{
+    text-align: center;
+}
+
+.into{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingspace{
+    padding-bottom: 20px;
+}
+
+li{
+    padding-bottom: 10px;
+}
